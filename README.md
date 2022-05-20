@@ -3,7 +3,4 @@ Hackerrank solutions for basic data analysis basic programming skills
 ## Includes:
 . python
 . sql
-. Data Structure
-
-## links
-hackerrank.com/imanhamza
+. Data Structure.
